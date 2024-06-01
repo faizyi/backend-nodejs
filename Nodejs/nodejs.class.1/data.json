@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Faiz",
+      "email": "faiz@faiz",
+      "password": "12345",
+      "createdAt": "2022-12-05T19:05:22.000Z"
+    },
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "$2a$08$jHRGKdb.5zlTznx4kMsoLuGEJnpETfHml3JQRzof3xUez4A5T/zWW"
+    },
+    {
+      "id": 1,
+      "email": "user2@gmail.com",
+      "password": "$2a$08$Txy/vRuRkVSIoN9HWyoWCeGxW0ImHyvFncSDrMNeer23QRBABkAPW"
+    }
+  ]
+}

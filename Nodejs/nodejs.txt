@@ -1,0 +1,15 @@
+install
+const http = require('http');  create and manage an HTTP server
+const PORT = 3000; This defines the port number on which the server will listen for incoming requests,
+. writeHead
+. setHeader
+single thread
+
+multi threds
+load banlacing
+cache
+micro servers
+distributed architecture
+
+monolethic architecture
+scalability
