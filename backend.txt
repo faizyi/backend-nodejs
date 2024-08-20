@@ -1,0 +1,8 @@
+node.js (expressjs framework)
+node -v
+node index.js
+local host (express js)
+npm init
+package name
+npm i express js
+nodemon
