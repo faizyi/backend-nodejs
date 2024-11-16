@@ -16,6 +16,11 @@
       "id": 1,
       "email": "user2@gmail.com",
       "password": "$2a$08$Txy/vRuRkVSIoN9HWyoWCeGxW0ImHyvFncSDrMNeer23QRBABkAPW"
+    },
+    {
+      "id": 1,
+      "email": "faiz@gmail.com",
+      "password": "$2a$08$iOteRp/TuHw6guIA0V.33.uJyFBrjc0dgF7b9v.JV7NfiJ499B4Xe"
     }
   ]
 }
